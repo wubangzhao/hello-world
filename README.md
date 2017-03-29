@@ -1,2 +1,4 @@
 # hello-world
-New Start
+
+Hi Github!
+I'm forward to learn prgramming!
